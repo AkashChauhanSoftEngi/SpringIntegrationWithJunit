@@ -1,7 +1,7 @@
 # SpringIntegrationWithJunit
 
 ## Spring and Junit
-* Let spring handles the object creation (DI)
+* Let spring handle the object creation (DI)
 * Using @Autowired, accessing object from the container, and can mock if needed
 * Reference : https://www.mkyong.com/unittest/junit-spring-integration-example/
 
